@@ -1,4 +1,4 @@
-<img src=https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif></img>
+<img src=https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif display=block margin-left=auto margin-right=auto width=50% ></img>
 <h1 align="center">Hi 👋, I'm Fadzwan</h1>
 <h3 align="center">A passionate Cyber Security Students from Malaysia</h3>
 
